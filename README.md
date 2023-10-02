@@ -51,4 +51,4 @@ My other projects:
 - Discord widget with Minecraft server query (showing statistic from Minecraft on Discord, Sending commands to server to reward best players)
 
 ## Authors
-- @vorwinator
+- [@vorwinator](https://github.com/vorwinator)
